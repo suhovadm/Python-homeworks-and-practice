@@ -19,11 +19,3 @@ while(True):
     summ = value1-value2-value3
 
     print('\nИтого:', value1, '-', value2, '-', value3, '=', value1-value2-value3,'\n')
-
-
-
-
-
-
-
-
