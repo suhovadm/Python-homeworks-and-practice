@@ -12,5 +12,3 @@ while(True):
     print('  ', value1 + value2) # Способ №1.
     print('    ', ''.join(value1+value2)) # Способ №2.
     print('      ', str.split(value1 + value2)) # Способ №3. Вывод будет списком.
-
-
