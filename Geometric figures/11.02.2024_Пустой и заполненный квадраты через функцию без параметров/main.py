@@ -1,6 +1,8 @@
 import empty_square
 import filled_square
 
+# Заводим главную функцию main, внутри которой будет крутиться 
+# бесконечный цикл while.
 def main():
     while(True):
         try:
