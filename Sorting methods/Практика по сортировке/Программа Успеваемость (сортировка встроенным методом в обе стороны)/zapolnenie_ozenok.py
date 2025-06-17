@@ -1,6 +1,6 @@
 # 4.
 # Определяем функцию zapolnenie_ozenok, которая принимает в себя 1 аргумент - spisok.
-def zapolnenine_ozenok(spisok):
+def zapolnenie_ozenok(spisok):
 
     # Заводим цикл for (от 0 до 9), который просит пользователя ввести оценки для каждого из 10 экзаменов.
     for i in range(10):
