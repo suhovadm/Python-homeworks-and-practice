@@ -10,7 +10,7 @@ from main_menu import *
 from vivod import *
 from srBallStep import *
 from peresdacha import *
-from zapolnenine_ozenok import *
+from zapolnenie_ozenok import *
 
 # Создание начального списка оценок.
 # Создаём список из 10 элементов, все равны 1. Это список оценок по умолчанию.
