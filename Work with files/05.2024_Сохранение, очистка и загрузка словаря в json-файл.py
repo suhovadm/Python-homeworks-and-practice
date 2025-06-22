@@ -19,14 +19,14 @@ my_dict = {
 }
 
 # Сохраняемся в json-файл.
-with open('backup.json', 'w', encoding='utf8') as file:
+with open('backup.json', 'w', encoding='utf-8') as file:
     json.dump(my_dict, file)
 
 # Очищаем словарь.
 my_dict.clear()
 
 # Загружаемся из json-файла.
-with open('backup.json', 'r', encoding='utf8') as file:
+with open('backup.json', 'r', encoding='utf-8') as file:
     my_dict = json.load(file)
 
 # Проверка результата.
