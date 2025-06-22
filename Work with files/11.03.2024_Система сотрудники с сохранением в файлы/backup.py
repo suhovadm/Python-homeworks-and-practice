@@ -3,7 +3,7 @@
 def perform_backup():
     try:
 
-        with open('IN.txt', 'r', encoding='utf8') as openBD, open('BACKUP.txt', 'w', encoding='utf8') as backupBD:
+        with open('IN.txt', 'r', encoding='utf-8') as openBD, open('BACKUP.txt', 'w', encoding='utf-8') as backupBD:
             for line in openBD:
                 backupBD.write(line)
         print('[ База данных сохранена в файл BACKUP.txt ]')
