@@ -1,0 +1,5 @@
+hello world
+hello world
+hello world
+hello world
+Тестил на букве L, она встречается 12 раз.
