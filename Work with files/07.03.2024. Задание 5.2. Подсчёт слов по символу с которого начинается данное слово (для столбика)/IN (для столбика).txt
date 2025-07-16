@@ -1,0 +1,7 @@
+hello world
+hello world
+hello world
+hello world
+ehello world
+
+Также как и в первом варианте, должно получиться 4 Хэллоу Ворлда.
