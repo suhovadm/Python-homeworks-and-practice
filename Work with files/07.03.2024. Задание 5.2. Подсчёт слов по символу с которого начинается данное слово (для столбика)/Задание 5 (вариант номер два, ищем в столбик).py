@@ -9,6 +9,7 @@ with open('IN.txt', 'r', encoding='utf-8') as f1:
 
     # Считываем все строки файла в список content.
     # readlines() - это значит прочитать всё из файла f1 ПОСТРОЧНО.
+    # В данном случае, readlines() - это метод объекта.
     content = f1.readlines()
 
 # Запускаем бесконечный цикл while.
