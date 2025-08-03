@@ -18,4 +18,5 @@ output_translation - функционал записи в файл OUT.txt
 get_translation_choice - функционал выбора направления перевода.
 load_dictionary - функционал загрузки словарей.
 Dictionary.json - дефолтный словарь.
+my_dict.json - пользовательский словарь.
 OUT.txt - файл для выгрузки.
