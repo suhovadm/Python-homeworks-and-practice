@@ -27,7 +27,7 @@ while(True):
         result = add(a, b)
         print('\nРезультат:', result)
 
-    # Вычетание.
+    # Вычитание.
     elif choice == '2':
         result = subtract(a, b)
         print('\nРезультат:', result)
@@ -45,6 +45,11 @@ while(True):
     # Деление.
     elif choice == '5':
         result = divide(a, b)
+        print('\nРезультат:', result)
+
+    # Целочисленное деление.
+    elif choice == '6':
+        result = integer_divide(a, b)
         print('\nРезультат:', result)
 
     else:
