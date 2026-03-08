@@ -171,6 +171,8 @@ https://www.youtube.com/embed/DEwgZNC-KyE
 Python: быстрый старт (видео может быть не доступно)  
 https://www.youtube.com/embed?listType=playlist&list=PLsFgCA3RuGOBAXNtDM4VPlc70Cz62rQ0A  
 
+
+
 ___________ DJANGO И FLASK, ССЫЛКИ НА ВИДЕО  
 
 Python Django Crash Course  
