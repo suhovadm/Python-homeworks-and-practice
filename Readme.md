@@ -1,3 +1,5 @@
+____________ PYTHON, ССЫЛКИ НА ВИДЕО  
+
 Python crash course for beginners  
 https://www.youtube.com/embed/JJmcL1N2KQs  
 
