@@ -170,3 +170,20 @@ https://www.youtube.com/embed/DEwgZNC-KyE
 
 Python: быстрый старт (видео может быть не доступно)  
 https://www.youtube.com/embed?listType=playlist&list=PLsFgCA3RuGOBAXNtDM4VPlc70Cz62rQ0A  
+
+___________ DJANGO И FLASK, ССЫЛКИ НА ВИДЕО  
+
+Python Django Crash Course  
+https://www.youtube.com/embed/e1IyzVyrLSU  
+
+Django Tutorial for Beginners | Full course  
+https://www.youtube.com/embed/OTmQOjsl0eg  
+
+Learn Flask for Python - Full Tutorial  
+https://www.youtube.com/embed/Z1RJmh_OqeA  
+
+Python Django Web Framework - Full Course for Beginners  
+https://www.youtube.com/embed/F5mRW0jo-U4  
+
+DjanoBook.com (не видео, просто сайт с кучей инфы на английском)  
+https://djangobook.com/  
