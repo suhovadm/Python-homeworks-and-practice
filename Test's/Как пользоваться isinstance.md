@@ -1,8 +1,0 @@
-isinstance - это встроенная в Python функция, которая проверяет, является  
-ли объект экземпляром указанного класса или его подкласса.  
-
-x = 10  
-print(isinstance(x, int)) # True  
-print(isinstance(x, str)) # False  
-
-isinstance - это функция, а не метод.  
