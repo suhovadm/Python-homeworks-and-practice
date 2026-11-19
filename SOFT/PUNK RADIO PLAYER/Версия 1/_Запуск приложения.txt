@@ -1,7 +1,0 @@
-// Чтобы запустить прогу из PyCharm-a:
-cd punk_radio_player
-python main.py
-
-// Как скомпилить всё в 1 .exe-шник ?
-cd punk_radio_player
-pyinstaller --onefile --clean --noconfirm --name "PunkRadioPlayer" --icon "assets/icon.ico" --log-level=WARN --windowed --exclude-module tests --exclude-module unittest --exclude-module pydoc --add-data "assets;assets" main.py
